@@ -1,7 +1,7 @@
 /*
  * @name = SteramAll.Js
  * @author = LucaLin233
- * @update = 23.12.21
+ * @author = Rabbit-Spec
 ----------------------------------------
 [Panel]
 StreamAll = script-name=StreamAll, title="流媒体解锁检测", content="请刷新面板", update-interval=3600
