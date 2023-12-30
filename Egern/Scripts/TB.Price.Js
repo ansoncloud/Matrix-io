@@ -1,5 +1,5 @@
 // @name = TB.Price
-// @desc = TB.Price(淘宝比价)
+// @desc = TB.Price淘宝比价
 // @author = yichahucha
 
 const $tool = new Tool()
