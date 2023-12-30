@@ -1,5 +1,5 @@
 /*
- * @name = Network.Js
+ * @name = Network
  * @author = Nebulosa-Cat
  * @author = Rabbit-Spec
 ----------------------------------------
