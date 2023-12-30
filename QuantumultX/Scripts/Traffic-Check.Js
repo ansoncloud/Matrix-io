@@ -1,6 +1,6 @@
-// @name = Traffic-Check.Js
+// @name = Traffic-Check
+// @desc = Traffic-Check
 // @author = KOP-XIAO
-// @update = 23.12.21
 
 const messageTraffic = {
     action: "get_traffic_statistics"
