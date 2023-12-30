@@ -1,5 +1,5 @@
 // @name = Redirect
-// @desc = Redirect[重定向脚本]
+// @desc = Redirect(重定向)
 // @author = DivineEngine
 
 let body = $request.body;
