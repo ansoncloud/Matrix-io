@@ -1,5 +1,5 @@
 /*
- * @name = SteramAll.Js
+ * @name = SteramAll
  * @author = LucaLin233
  * @author = Rabbit-Spec
 ----------------------------------------
