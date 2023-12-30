@@ -1,6 +1,6 @@
-// @name = IP-API-C.Js
+// @name = IP-API
+// @desc = IP-API
 // @author = KOP-XIAO
-// @update = 23.12.21
 
 if ($response.statusCode != 200) {
   $done(null);
