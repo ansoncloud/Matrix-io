@@ -1,6 +1,6 @@
-// @name = IP-API-B.Js
+// @name = IP-API
+// @desc = IP-API
 // @author = crossutility
-// @update = 23.12.21
 
 if ($response.statusCode != 200) {
   $done(Null);
