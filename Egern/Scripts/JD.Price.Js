@@ -1,5 +1,5 @@
-// @name = JD.Price
-// @desc = JD.Price[京东比价]
+// @name = JD.Price.Js
+// @desc = JD.Price.Js[京东比价脚本]
 // @author = yichahucha
 
 const path1 = "serverConfig";
