@@ -1,6 +1,6 @@
-// @name = Redirect.Js
+// @name = Redirect
+// @desc = Redirect[重定向]
 // @author = DivineEngine
-// @update = 23.12.21
 
 let body = $request.body;
 
