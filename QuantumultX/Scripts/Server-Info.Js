@@ -1,6 +1,6 @@
-// @name = Server-Info.Js
+// @name = Server-Info
+// @desc = Server-Info
 // @author = KOP-XIAO
-// @update = 23.12.21
 
 let base_url = "https://scamalytics.com/ip/"
 
