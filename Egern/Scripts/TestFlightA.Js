@@ -1,5 +1,5 @@
-// @name = TestFlightA
-// @desc = TestFlightA(TF账户管理)
+// @name = TestFlight
+// @desc = TestFlight账户管理
 // @author = NobyDa
 
 const $ = API("TESTFLIGHT-ACCOUNT");
