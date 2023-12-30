@@ -1,7 +1,7 @@
 /*
- * @name = SurgePro.Js
+ * @name = SurgePro
+ * @desc = SurgePro
  * @author = fishingworld
- * @update = 23.12.21
 ----------------------------------------
 [Panel]
 SurgePro= script-name=SurgePro,update-interval=1
