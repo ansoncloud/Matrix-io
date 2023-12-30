@@ -1,6 +1,6 @@
-// @name = TB.Price.Js
+// @name = TB.Price
+// @desc = TB.Price淘宝比价
 // @author = yichahucha
-// @update = 23.12.21
 
 const $tool = new Tool()
 const path1 = "/amdc/mobileDispatch"
