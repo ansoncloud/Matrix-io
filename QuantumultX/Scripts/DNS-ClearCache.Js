@@ -1,6 +1,6 @@
-// @name = DNS-ClearCache.Js
+// @name = DNS-ClearCache
+// @desc = DNS-ClearCache
 // @author = crossutility
-// @update = 23.12.21
 
 const message = {
     action: "dns_clear_cache"
