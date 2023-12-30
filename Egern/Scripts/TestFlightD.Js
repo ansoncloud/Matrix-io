@@ -1,5 +1,5 @@
 // @name = TestFlightD
-// @desc = TestFlightD[TF下载修正脚本]
+// @desc = TestFlightD(TF下载修正)
 // @author = NobyDa
 
 let app = JSON.parse($request.body);
