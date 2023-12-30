@@ -1,6 +1,6 @@
-// @name = JD.Price.Js
+// @name = JD.Price
+// @desc = JD.Price京东比价
 // @author = yichahucha
-// @update = 23.12.21
 
 const path1 = "serverConfig";
 const path2 = "wareBusiness";
