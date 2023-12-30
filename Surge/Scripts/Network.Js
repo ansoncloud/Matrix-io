@@ -2,7 +2,6 @@
  * @name = Network.Js
  * @author = Nebulosa-Cat
  * @author = Rabbit-Spec
- * @update = 23.12.21
 ----------------------------------------
 [Host]
 ip-api.com = 208.95.112.1
