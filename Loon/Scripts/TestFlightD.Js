@@ -1,6 +1,6 @@
-// @name = TestFlightD.Js
+// @name = TestFlight
+// @desc = TestFlight下载修正
 // @author = NobyDa
-// @update = 23.12.21
 
 let app = JSON.parse($request.body);
 app.storefrontId = '143441-19,29';
