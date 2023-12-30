@@ -1,6 +1,6 @@
-// @name = Geo-Location.Js
+// @name = Geo-Location
+// @desc = Geo-Location
 // @author = KOP-XIAO
-// @update = 23.12.21
 
   var url = "https://api.ip.sb/geoip"
   var opts = {
