@@ -1,6 +1,6 @@
-// @name = TestFlightA.Js
+// @name = TestFlight
+// @desc = TestFlight账户管理
 // @author = NobyDa
-// @update = 23.12.21
 
 const $ = API("TESTFLIGHT-ACCOUNT");
 $.env.isNode ? $request = $.read('Request') : null;
