@@ -1,6 +1,6 @@
-// @name = Streaming-Check.Js
+// @name = Streaming-Check
+// @desc = Streaming-Check
 // @author = KOP-XIAO
-// @update = 23.12.21
 
 const BASE_URL = 'https://www.netflix.com/title/';
 const BASE_URL_YTB = "https://www.youtube.com/premium";
