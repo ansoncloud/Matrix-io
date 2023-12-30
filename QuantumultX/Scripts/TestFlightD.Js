@@ -1,5 +1,5 @@
 // @name = TestFlight
-// @desc = TestFlight账户管理
+// @desc = TestFlight下载修正
 // @author = NobyDa
 
 let app = JSON.parse($request.body);
