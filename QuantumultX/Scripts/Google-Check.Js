@@ -1,6 +1,6 @@
-// @name = Google-Check.Js
+// @name = Google-Check
+// @desc = Google-Check
 // @author = KOP-XIAO
-// @update = 23.12.21
 
 //var policy = $environment.params
 var cronsign = $environment.executeType == 0 || $environment.executeType == "0" || $environment.executeType == "-1"? "Y" : "N"
