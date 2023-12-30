@@ -1,7 +1,7 @@
 /*
  * @name = SurgePro
- * @desc = SurgePro
  * @author = fishingworld
+ * @author = Rabbit-Spec
 ----------------------------------------
 [Panel]
 SurgePro= script-name=SurgePro,update-interval=1
